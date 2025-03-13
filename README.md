@@ -12,5 +12,5 @@ A simple Chrome extension that enables or disables all installed extensions with
 1. Clone or download this repository.
    ```sh
 
-   git clone https://github.com/NELLITHARUN/toggle-extensions.git
+   git clone https://github.com/NELLITHARUN/Chrome-extension-toggel-switch.git
 
