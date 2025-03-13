@@ -11,5 +11,6 @@ A simple Chrome extension that enables or disables all installed extensions with
 ## Installation
 1. Clone or download this repository.
    ```sh
-   git clone https://github.com/your-username/toggle-extensions.git
+
+   git clone https://github.com/NELLITHARUN/toggle-extensions.git
 
