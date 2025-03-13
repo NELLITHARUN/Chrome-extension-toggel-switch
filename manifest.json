@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Extension Toggle",
+    "version": "1.0",
+    "description": "Toggle all Chrome extensions on/off with one click.",
+    "permissions": ["management"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "host_permissions": ["*://*/*"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    }
+  }
+  
